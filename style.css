@@ -1,0 +1,19 @@
+
+.call{
+    border: 5px solid red;
+    width: 1099px;
+}
+.box{
+    border: 2px solid black;
+    width: 98%;
+    height: 50px;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.bts{
+    width: 269px;
+    height: 50px;
+    font-size: 40px;
+    margin-bottom: 4px;
+}
